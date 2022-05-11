@@ -1,3 +1,1 @@
 Alex has two cats.
-
-Adding new, experimental functionality.
